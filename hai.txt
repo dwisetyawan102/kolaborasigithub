@@ -1,1 +1,2 @@
 Hai World!
+Menambahkan teks ke dalam hai.txt
